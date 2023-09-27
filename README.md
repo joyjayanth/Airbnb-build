@@ -255,7 +255,7 @@ Install dependencies
 Install tailwindcss and its peer dependencies via npm, and then run the init command to generate both `tailwind.config.js` and `postcss.config.js`.
 
 ```
-npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss postcss autoprefixer 
 ```
 
 ```
