@@ -368,7 +368,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Joy Jayanth-rajujoy188@gmail.com
+JoyJayanth-rajujoy188@gmail.com
 
 Project Link: [https://github.com/Sanjay0712/AirBnb-Clone.git](https://github.com/Sanjay0712/AirBnb-Clone.git)
 
