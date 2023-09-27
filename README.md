@@ -308,7 +308,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/Sanjay0712/AirBnb-Clone.git
+  git clone https://github.com/joyjayanth/Airbnb-build.git
 ```
 
 change directory
@@ -370,7 +370,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 JoyJayanth-rajujoy188@gmail.com
 
-Project Link: [https://github.com/Sanjay0712/AirBnb-Clone.git](https://github.com/Sanjay0712/AirBnb-Clone.git)
+Project Link: [https://github.com/joyjayanth/Airbnb-build.git](https://github.com/joyjayanth/Airbnb-build.git)]
 
 <br />
 
